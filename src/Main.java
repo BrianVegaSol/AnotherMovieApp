@@ -22,6 +22,10 @@ public class Main {
         int [] moviewReleaseYear = {2008, 2009, 2010};
         String [] favMovieGenres = {"Action", "Drama", "Thriller"};
 
+
+        //comment
+
+
         System.out.println("First genre: " + favMovieGenres[0]); //first item in my array
         System.out.println("Third genre: " + favMovieGenres[2]); //last item in my array
         System.out.println("Second genre: " + favMovieGenres[1]); //second item in my array
